@@ -2,18 +2,18 @@
 
 Hi, Welcome come here.
 
-I'm a middle school student from Qingdao, Shandong, China.
+I'm a middle school student from Qingdao, Shandong, China
 
-我是 HiTech0926，位于山东青岛西海岸新区，生日2010年9月26日。
+Hi，我是 HiTech0926，坐标山东省青岛市西海岸新区，出生于2010年9月26日。
 
-一名15岁中学生，全栈开发者、Minecraft 社区引领和建设者，同时也是 GeeRoam 极游科技 的创始人。
+目前是一名15岁的中考生，全栈开发者、Minecraft 社区引领和建设者，同时也是科技工作室 GeeRoam 的创始人。
 
-从2020年接触更为广泛的互联网以来，我便进入了IT相关领域。2021年，我建立了自己的IT工作室。2022年，接触并进入 Minecraft 社区。
+从2020年更为广泛地接触互联网以来，我便进入了IT相关领域。2021年，我建立了自己的IT工作室。2022年，接触并进入 Minecraft 社区。
 
-相比普通玩家，我更喜欢把自己定义为长期主义的创造者。对我来说，Minecraft 不只是游戏，更是一套完整的社区与创作生态。<br>
+相比普通玩家，我更喜欢把自己定义为长期主义的创造者。对我来说，Minecraft 不只是游戏，更是一套完整的社区与创作生态。
 
 
-**我建立、引领或参与的项目/团队（按建立/加入时间排序）：**
+**我建立、引领或参与的项目/团队（按建立/加入时间序）：**
 
 - 黑科技工具屋（2021.1.24建立，现已发展为 GeeRoam 极游科技）
 - 西瓜博客（2021.7建立，个人/团队博客，已转型为新个人博客）
@@ -30,8 +30,7 @@ I'm a middle school student from Qingdao, Shandong, China.
 - GHytale 中文论坛（2025.11.20建立）
 - GeeRoam 极游科技（2021.1.24建立，由最初工作室发展而来，2025.10.30完成品牌升级）
 - GeeMC 社区（2026.2.16立项，规划和开发中）
-- NexusMC 社区（2026.4.25达成合作，参与并指导发展）<br>
-
+- NexusMC 社区（2026.4.25达成合作，参与并指导发展）
 
 
 **我长期专注于：**
@@ -42,10 +41,11 @@ I'm a middle school student from Qingdao, Shandong, China.
 - 前端 UI / UX 设计
 - 社区运营和管理
 
+
+
 我平时主要研究 Vue3、TypeScript、Node.js、XenForo、现代化社区与游戏生态。
 
-欢迎与我交朋友哦\~
-
+欢迎与我交朋友哦~
 
 —— HiTech0926
 
