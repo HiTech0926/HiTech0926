@@ -6,7 +6,7 @@ I'm a middle school student from Qingdao, Shandong, China
 
 Hi，我是 HiTech0926，坐标山东省青岛市西海岸新区，出生于2010年9月26日。
 
-目前是一名15岁的中考生，全栈开发者、Minecraft 社区引领和建设者，同时也是科技工作室 GeeRoam 的创始人。
+目前是一名16岁的高中生，全栈开发者、Minecraft 社区引领和建设者，同时也是科技工作室 GeeRoam 的创始人。
 
 从2020年更为广泛地接触互联网以来，我便进入了IT相关领域。2021年，我建立了自己的IT工作室。2022年，接触并进入 Minecraft 社区。
 
